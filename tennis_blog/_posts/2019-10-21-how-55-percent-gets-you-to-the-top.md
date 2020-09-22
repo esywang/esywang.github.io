@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "How 55% gets you to the top of the world" 
 categories: Tennis
 ---

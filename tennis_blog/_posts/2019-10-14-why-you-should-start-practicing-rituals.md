@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Why you need to start practicing rituals"
 categories: Tennis
 ---

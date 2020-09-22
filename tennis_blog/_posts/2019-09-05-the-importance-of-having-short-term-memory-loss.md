@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "The importance of having short-term memory loss"
 categories: Tennis
 ---

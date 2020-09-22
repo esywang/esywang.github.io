@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "There is no good or bad shot"
 categories: Tennis
 ---
@@ -13,4 +13,5 @@ Instead, observe what is occurring on the court with a non-judgmental mindset. F
 
 To conclude this post, I’ll reference one of my favourite passages from Galloway’s book:
 
->>> “The image comes to my mind of the balanced movement of a leopard stalking a bird. **Effortlessly alert**, he crouches, gathering his **relaxed** muscles for the spring. **No thinking** about when to jump, nor how he will push off with his hind legs to attain the proper distance, **his mind is still** and perfectly concentrated on his prey. No thought flashes into his consciousness of the possibility or consequences of missing his mark. He sees only bird. Suddenly the bird takes off; at the same instant, the cat leaps. With perfect anticipation he intercepts his dinner two feet off the ground. Perfectly, **thoughtlessly executed action**, and afterward, no self-congratulations, just the reward inherent in his action: the bird in the mouth.”
+
+> “The image comes to my mind of the balanced movement of a leopard stalking a bird. **Effortlessly alert**, he crouches, gathering his **relaxed** muscles for the spring. **No thinking** about when to jump, nor how he will push off with his hind legs to attain the proper distance, **his mind is still** and perfectly concentrated on his prey. No thought flashes into his consciousness of the possibility or consequences of missing his mark. He sees only bird. Suddenly the bird takes off; at the same instant, the cat leaps. With perfect anticipation he intercepts his dinner two feet off the ground. Perfectly, **thoughtlessly executed action**, and afterward, no self-congratulations, just the reward inherent in his action: the bird in the mouth.”

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "The changing dynamics of an individualistic sport"
 categories: Tennis
 ---
@@ -11,6 +11,7 @@ In his autobiography *Open*, 8-time Grand Slam champion Andre Agassi described t
 Individualism and self-reliance are distinct features found predominantly in tennis compared to other sports (and though there are doubles in tennis, they are not nearly as celebrated or glorified enough compared to singles, especially at the professional level). For example, there are no teammates, no caddies, no coaches, no friends for Novak Djokovic to turn to on court during a 5 hour Wimbledon match - he has to figure out everything on his own.
 
 ![djokovic federer wimbledon](/images/tennis/djokovic_fed.jpg)
+
 (credits [Getty Images](https://www.gettyimages.ca/detail/news-photo/novak-djokovic-of-serbia-and-roger-federer-of-switzerland-news-photo/1169816325?adppopup=true))
 
 There are pros and cons to this in my opinion. For one, a player can largely build his/her skills of being independent, which fits hand-in-hand with the (North) American individualistic culture. On the other hand (and this may be a big generalization), <b>I’ve observed that tennis players are some of the most loneliest and introverted people out there</b> throughout my years playing juniors up until now.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Flow: getting high on the tennis court"
 categories: Tennis
 ---

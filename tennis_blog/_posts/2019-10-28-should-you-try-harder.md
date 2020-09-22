@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Should you try harder?"
 categories: Tennis
 ---
